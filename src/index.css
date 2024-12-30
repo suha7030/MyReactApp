@@ -1,0 +1,13 @@
+#div1{
+  width: 200px;
+  height:350px;
+  border: solid 2px black;
+  margin: 30px;
+  float: left;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+
+img{
+  width: 200px;
+  height: 500px;
+}
